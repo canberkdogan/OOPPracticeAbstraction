@@ -17,4 +17,4 @@ When the Mission method is called on each employee, they should describe their s
 
 For instance, consider an employee named Hasan Çıldırmış, who is a Project Manager. When the Mission() abstract method is called on Hasan's instance, the console should output:
 
-![image](https://github.com/user-attachments/assets/a93e1832-0400-4aab-8c5a-844c87223eea)
+
